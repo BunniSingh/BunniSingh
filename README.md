@@ -30,7 +30,7 @@ I’m a **Full Stack AI Developer** passionate about building modern, scalable, 
 * 💡 **150+ LeetCode Solutions**
 * 🌱 Currently improving **Next.js, TypeScript, Python, AWS & LLM Applications**
 * 💬 Ask me about **React, JavaScript, Python, APIs, Node.js, MongoDB, AI & LLMs**
-* 📫 Reach me at **[bantikumarsingh91@gmail.com](mailto:bantikumarsingh91@gmail.com)**
+* 📫 Reach me at **[bks03011997@gmail.com](mailto:bks03011997@gmail.com)**
 * ⚡ Fun fact: *I debug faster when coffee is involved ☕*
 
 ---
